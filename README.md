@@ -38,6 +38,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bynextex&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="bynextex GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynextex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bynextex&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="bynextex GitHub stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bynextex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
