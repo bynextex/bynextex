@@ -1,10 +1,11 @@
 <h1 align="center">Metin (@bynextex)</h1>
 
 <p align="center">
-  Software developer focused on blockchain (Sui / Move), web apps, and developer tools.
+  Software developer focused on blockchain (Sui / Move), Python tools, and web applications.
 </p>
 
 <p align="center">
+  <a href="https://bynextex.github.io"><img src="https://img.shields.io/badge/Portfolio-bynextex.github.io-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/kuntekul"><img src="https://img.shields.io/badge/X-@kuntekul-000000?style=flat-square&logo=x&logoColor=white" alt="X (@kuntekul)" /></a>
   <a href="https://github.com/bynextex"><img src="https://img.shields.io/badge/GitHub-bynextex-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
@@ -13,24 +14,26 @@
 
 ### Focus & Interests
 
-- **Blockchain**: Smart contract development on Sui using Move (NFTs, tokens, vesting contracts, DeFi primitives)
-- **Web & Tools**: Python automation, Chrome extensions, Full-stack apps with TypeScript, React, Next.js
-- **AI & Integrations**: LLM-backed workflows, Streamlit dashboards, custom API wrappers
+- **Blockchain**: Smart contract engineering on Sui using Move (token vesting, custom coins, NFT primitives, capability patterns)
+- **Developer Tools & Automation**: Python CLI tools, portfolio trackers, Chrome extensions (Manifest V3)
+- **Web Applications**: Full-stack web tools with TypeScript, JavaScript, Streamlit, and modern web APIs
 
 ### Tech Stack
 
 - **Languages**: Move, Python, JavaScript, TypeScript, HTML/CSS
-- **Platforms & Tools**: Sui Blockchain, Node.js, Streamlit, Git, Linux, Chrome Extensions API
+- **Platforms & Frameworks**: Sui Blockchain, Node.js, Streamlit, Chrome Extensions API, Git
 
-### Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Move-on-Sui-VideoNFT](https://github.com/bynextex/Move-on-Sui-VideoNFT) | Video NFT smart contract on Sui with minting, transfer, and duration metadata | Move, Sui |
+| [sui-token-vesting](https://github.com/bynextex/sui-token-vesting) | Linear token vesting contract on Sui with cliff period and cancellation support | Move, Sui |
+| [move-by-example](https://github.com/bynextex/move-by-example) | Practical examples and architectural patterns for Sui Move with test coverage | Move, Sui |
+| [Move-on-Sui-VideoNFT](https://github.com/bynextex/Move-on-Sui-VideoNFT) | Video NFT smart contract package on Sui with metadata and duration tracking | Move, Sui |
+| [crypto-portfolio-tracker](https://github.com/bynextex/crypto-portfolio-tracker) | Lightweight CLI tool for crypto portfolio valuation and live P/L analytics | Python |
 | [x-follow-highlight](https://github.com/bynextex/x-follow-highlight) | Chrome extension that detects and highlights accounts following you on X | JavaScript, Chrome Extensions API |
-| [Nous-Research](https://github.com/bynextex/Nous-Research) | Multi-model chat app with Streamlit and Nous Research API | Python, Streamlit |
-| [efepro-ai](https://github.com/bynextex/efepro-ai) | Chatbot interface with persistent history and model selection | Python, Streamlit |
-| [etsy-otomasyon-full-full-surum](https://github.com/bynextex/etsy-otomasyon-full-full-surum) | Desktop and CLI automation toolkit for Etsy store management | Python |
+| [bynextex.github.io](https://github.com/bynextex/bynextex.github.io) | Personal developer portfolio site with category filtering and dark theme | HTML, CSS, JavaScript |
+| [Nous-Research](https://github.com/bynextex/Nous-Research) | Multi-model chat app built with Streamlit and Nous Research inference API | Python, Streamlit |
 
 ---
 
